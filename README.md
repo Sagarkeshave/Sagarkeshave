@@ -2,7 +2,7 @@
 
 <br>
 
-### **I'm a Machine Learning &  Data Science Student**!!
+### **I'm a Machine Learning &  Data Scientist**!!
 
 -  :robot: My Goal: Research & contribute to this amazing field of AI and Machine Learning.
 
